@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Hola {
 	public static void main(String[] args) {
 		//imprimir la entrada
-		System.out.println("bienvenido mitocyode 2020");
+		System.out.println("bienfvenido mitocyode 2020");
 		
 		//capturar valores de la consola
 		Scanner SC = new Scanner(System.in);
